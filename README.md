@@ -19,7 +19,7 @@ The project focuses on a clean layout, modern visual design, organized sections,
 
 ## 🌐 Live Demo
 
-👉 [View Live Website](YOUR-LIVE-DEMO-LINK)
+👉 [View Live Website] https://nesasaeedi.github.io/dental-website/
 
 ---
 
